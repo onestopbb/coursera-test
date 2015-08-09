@@ -1,2 +1,2 @@
 # coursera-test
-This is a test repo for Coursera
+* This is a test repo for Coursera
